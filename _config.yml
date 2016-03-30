@@ -14,8 +14,7 @@ baseurl:
 author:
   name:           'Karen Ho'
   url:            https://twitter.com/karenjho
-
-# paginate:         5
+  baseurl:        
 
 # Custom vars
 version:          3.1.2
