@@ -59,7 +59,8 @@ html {
   /* Adjust padding */
   padding: 2rem 0 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  /* Change sidebar color */
+  background-color: rgba(255, 70, 20, 1);
 }
 @media (min-width: 48em) {
   .sidebar {
