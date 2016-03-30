@@ -14,10 +14,14 @@ baseurl:
 author:
   name:           'Karen Ho'
   url:            https://twitter.com/karenjho
-  baseurl:        
+  baseurl:
 
 # Custom vars
 version:          3.1.2
 
 github:
   repo:           https://github.com/poole/hyde
+
+# Social media
+twitter_username: karenjho
+github_username:  karenjho
