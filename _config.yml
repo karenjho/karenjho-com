@@ -19,7 +19,10 @@ timezone:         America/Toronto
 author:
   name:           'Karen Ho'
   url:            https://twitter.com/karenjho
-  baseurl:        ""
+
+# Social Media
+github_username:  karenjho
+twitter_username: karenjho
 
 # Custom vars
 # version:          3.1.2
