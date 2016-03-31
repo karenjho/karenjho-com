@@ -4,24 +4,25 @@ markdown:         kramdown
 # Permalinks
 permalink:        pretty
 
+# Pagination
+paginate:         10
+
 # Setup
 title:            karen ho
 tagline:          # 'Web developer and analysis professional in Toronto, Ontario, Canada'
 description:      'Web developer and analyst'
 url:              http://karenjho.com
-baseurl:
+baseurl:          ""
+timezone:         America/Toronto
+
 
 author:
   name:           'Karen Ho'
   url:            https://twitter.com/karenjho
-  baseurl:
+  baseurl:        ""
 
 # Custom vars
-version:          3.1.2
-
-github:
-  repo:           https://github.com/poole/hyde
-
-# Social media
-twitter_username: karenjho
-github_username:  karenjho
+# version:          3.1.2
+#
+# github:
+#   repo:           https://github.com/poole/hyde
