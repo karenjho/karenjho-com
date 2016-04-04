@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="sidebar-home">
+      <div class="container sidebar-sticky">
+        <div class="sidebar-about">
+          <h1>
+            <a href="{{ site.baseurl }}">
+              {{ site.title }}
+            </a>
+          </h1>
+        </div>
+        <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+      </div>
+    </div>
+
+    <div class="content container">
+      {{ content }}
+    </div>
+
+  </body>
+</html>
